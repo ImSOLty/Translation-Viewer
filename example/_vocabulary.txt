@@ -1,0 +1,3 @@
+<original-word>~<translation>
+<another-original-word>~<another-translation>
+Hello~Привет
